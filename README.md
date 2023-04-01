@@ -14,6 +14,9 @@ For installation of required node modules type the below command in terminal. No
 npm install
 ```
 
+In XAMPP ceate a new database named ```scripter``` 
+Inside this database import ```scripter.sql``` file which is present in DB folder.
+
 ## Usage
 
 For execution of code, enter the below command in terminal. Note: ou should run the below command in the location where (index.js) file is located. 
