@@ -2,6 +2,15 @@
 
 Scripter is a Cloud based code execution platform, which supports background execution of programs upto 2 months.
 
+## Download Source Code
+If you have already Git installed on your machine you can run this command for downloading this project.
+```bash
+git clone https://github.com/Arshad272/the-scripter.git
+```
+```or``` 
+Download zip file and unzip it for usage.
+
+
 ## Installation
 
 First step is installation of Node.JS [Download](https://nodejs.org/en) to install Node.
@@ -25,10 +34,8 @@ For execution of code, enter the below command in terminal. Note: ou should run 
 pm2 -start index.js
 ```
 
-## Guide & Team Members Details
+## Develped By
 
-Mr. A Sathish, M.E., (Ph.D.)
-
-Mr. K Arshad & Team
+Mr. K Arshad
 
 [Developer Contact](https://arshad272.github.io/)
